@@ -1,0 +1,57 @@
+#############
+## Windows detritus
+#############
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Mac crap
+.DS_Store
+
+############
+## Images
+############
+
+# Non-Texture
+*.jpg
+*.jpeg
+*.gif
+*.png
+*.bmp
+*.bak
+*.pbm
+*.pxr
+*.pdf
+*.tif
+*.tga
+*.dll
+TFMC.exe
+*.pkf
+*.rar
+*.zip
+TFMV.exe
+Bilder/
+Forum/
+Render/
+Viewer/
+Fake/
+fake/
+*.obj
+*.mtl
+*.blob
+*.msh
+*.c4d
+*.svg
+Treno Alta Frequentazione/doors.3ds
+Treno Alta Frequentazione/doors_fertig.3ds
+Treno Alta Frequentazione/render.3ds
+Treno Alta Frequentazione/scheinwerferscheibe.3ds
+Treno Alta Frequentazione/scheinwerferscheibe_fertig.3ds
+Treno Alta Frequentazione/taf.z3d
